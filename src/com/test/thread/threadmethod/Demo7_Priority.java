@@ -28,7 +28,6 @@ public class Demo7_Priority {
         t1.setPriority(Thread.MIN_PRIORITY);		//设置最小的线程优先级
         t2.setPriority(Thread.MAX_PRIORITY);		//设置最大的线程优先级
 
-
         t1.start();
         t2.start();
     }
