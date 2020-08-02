@@ -1,6 +1,7 @@
 package com.test.thread.syn;
 
 public class Demo1_Synchronized {
+
     /**
      * @param args
      * 同步代码块

@@ -23,7 +23,6 @@ public class Demo2_Synchronized {
                 }
             }
         }.start();
-
     }
 
 }
@@ -54,3 +53,5 @@ class Printer2 {
         }
     }
 }
+
+

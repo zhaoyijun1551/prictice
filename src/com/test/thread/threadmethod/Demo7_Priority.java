@@ -32,4 +32,5 @@ public class Demo7_Priority {
         t2.start();
     }
 
+    //局部内部类在使用变量的时候必须使用final修饰
 }
